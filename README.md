@@ -8,6 +8,7 @@ It supports:
 - Division
 
 ✅ How to Run:
+
 📌 Run the Calculator:
 <pre><code>python src/main.py</code></pre>
 📌 Run Unit Tests:
